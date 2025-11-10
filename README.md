@@ -6,7 +6,7 @@
 > I love automation principles, log analytics, and taking a systematic approach to finding critical bugs.
 ---
 
-### <img src="https://i.pinimg.com/originals/ac/5f/68/ac5f68cf7469c3459e22edd81e070ecd.gif" width="25" height="30" alt="Animated tool" /> Tools I'm Already Using:
+# <img src="https://i.pinimg.com/originals/ac/5f/68/ac5f68cf7469c3459e22edd81e070ecd.gif" width="50" height="50" alt="Animated tool" /> Tools I'm Already Using:
 
 <p align="center">
   <a href="https://www.postman.com/" target="_blank">
@@ -49,7 +49,7 @@
 
 ---
 
-### <img src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif" width="25" height="30" alt="Animated tool" /> Practical Experience:
+# <img src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif" width="50" height="50" alt="Animated tool" /> Practical Experience:
 
 * 🔍 Actively participating in crowd-testing on **[uTest](https://www.utest.com/)** for real-world scenarios.
 * 🧩 Seeking small projects on **[Upwork](https://www.upwork.com/)** to build a diverse portfolio and experience.
@@ -57,7 +57,7 @@
 
 ---
 
-### <img src="https://i.pinimg.com/originals/53/04/96/530496f5dcf65046e8c0360d7d89b10a.gif" width="25" height="30" alt="Animated tool" /> What I'm Currently Learning:
+# <img src="https://i.pinimg.com/originals/53/04/96/530496f5dcf65046e8c0360d7d89b10a.gif" width="50" height="50" alt="Animated tool" /> What I'm Currently Learning:
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
