@@ -3,7 +3,7 @@
 
 > 👋 Hello! I'm an enthusiastic Junior QA Engineer, passionate about product quality and reliability.
 > I actively participate in crowd-testing projects and create personal projects to sharpen my skills.
-> I love automation principles, log analytics, and taking a systematic approach to finding critical bugs.
+> I love log analytics, and taking a systematic approach to finding critical bugs.
 ---
 
 # <img src="https://i.pinimg.com/originals/ac/5f/68/ac5f68cf7469c3459e22edd81e070ecd.gif" width="50" height="50" alt="Animated tool" /> Tools I'm Already Using:
